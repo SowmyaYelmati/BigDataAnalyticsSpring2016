@@ -1,0 +1,31 @@
+StatusJSONImpl{createdAt=Thu Mar 03 23:24:12 CST 2016, id=705624866322411521, text='RT @egwiel102: نت مريض و نماوس وتشخير علي راسي واجد راه 😭😭😭', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=0, isPossiblySensitive=false, lang='ar', contributorsIDs=[], retweetedStatus=StatusJSONImpl{createdAt=Thu Mar 03 19:24:08 CST 2016, id=705564449336401920, text='نت مريض و نماوس وتشخير علي راسي واجد راه 😭😭😭', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=3, inReplyToScreenName='null', geoLocation=null, place=PlaceJSONImpl{name='Libya', streetAddress='null', countryCode='LY', id='70637f5c6cb00ec9', country='Libya', placeType='country', url='https://api.twitter.com/1.1/geo/id/70637f5c6cb00ec9.json', fullName='Libya', boundingBoxType='Polygon', boundingBoxCoordinates=[[Ltwitter4j.GeoLocation;@64769ab4], geometryType='null', geometryCoordinates=null, containedWithIn=null}, retweetCount=2, isPossiblySensitive=false, lang='ar', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=4410968007, name='عبدو FCB أغويل', screenName='egwiel102', location='Libya', description='كرامتي .. أكبر من أن اكون على مزاجك !! (سلوق_الكرامة)', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/702757699210125312/vwGF2iZv_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/702757699210125312/vwGF2iZv_normal.jpg', isDefaultProfileImage=false, url='http://instagram.com/egwiel.10', isProtected=false, followersCount=882, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='1B95E0', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=443, createdAt=Mon Dec 07 20:17:36 CST 2015, favouritesCount=34667, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='ar', statusesCount=13022, isGeoEnabled=true, isVerified=false, translator=false, listedCount=2, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}, userMentionEntities=[UserMentionEntityJSONImpl{name='عبدو FCB أغويل', screenName='egwiel102', id=4410968007}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=702586473279782913, name='قيس', screenName='Alfakri10', location='Libya', description='(بنغازي ما في قلبي غير غلاها) إثنان لا يجتمعان ألبدآ !! الكذب مع الرجولة !! وقلة الأدب مع الآنوثة', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/704190451717435392/TKZQsxWX_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/704190451717435392/TKZQsxWX_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=50, status=null, profileBackgroundColor='F5F8FA', profileTextColor='333333', profileLinkColor='2B7BB9', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=130, createdAt=Wed Feb 24 14:10:43 CST 2016, favouritesCount=443, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='', profileBackgroundImageUrlHttps='', profileBackgroundTiled=false, lang='ar', statusesCount=815, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+StatusJSONImpl{createdAt=Thu Mar 03 23:24:12 CST 2016, id=705624866297221120, text='Para poner ganzadas amiga, usa un papel y anota todo lo que se te cante el orto', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=0, isPossiblySensitive=false, lang='es', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=1311171511, name='Zorro #3', screenName='Nazaa_medina', location='null', description='snap: medina.naza 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+representante: @tgaiceuskas', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/680963211571662848/LNYUt6sU_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/680963211571662848/LNYUt6sU_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=302, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=177, createdAt=Thu Mar 28 11:49:54 CDT 2013, favouritesCount=1794, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='es', statusesCount=4729, isGeoEnabled=true, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
